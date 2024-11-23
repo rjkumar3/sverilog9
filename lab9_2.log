@@ -1,0 +1,15 @@
+Command: /home/users7/rk366163/526L/lab9_1/./simv -l lab9_2.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Apr 24 20:54 2024
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+At time                    0, output =      0 (expected:      0)
+At time               100000, output =    120 (expected:     60)
+At time               120000, output =   1020 (expected:    510)
+At time               140000, output =   1000 (expected:    500)
+$finish called from file "tb.sv", line 69.
+$finish at simulation time               290000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 290000 ps
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Wed Apr 24 20:54:45 2024
